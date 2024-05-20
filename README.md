@@ -28,6 +28,7 @@ Link to presentation
 ![my_image](readme/download_3.png)
 ![my_image](readme/download_4.png)
 ![my_image](readme/download_5.png)
+![my_image](screenshot.png)
 
 ## Dataset
 
