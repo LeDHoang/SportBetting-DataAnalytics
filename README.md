@@ -35,4 +35,4 @@ We have included data from the [Soccer Players Statistics](https://www.kaggle.co
 
 
 **Presentation**
-[Google Slide](https://trello.com/invite/b/6G76kTW7/ATTI1eefd2197e87bf394d3d2491a48118ed841D6ABD/sport-betting-project)
+[Google Slide](https://docs.google.com/presentation/d/1E6k73X7N5hKuSZwvaJ0WUkMo4LVOeAdtlrb1h8VqSOw/edit?usp=sharing)
